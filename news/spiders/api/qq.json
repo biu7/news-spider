@@ -1,0 +1,57 @@
+[
+  {
+    "name": 1,
+    "url": "http://roll.news.qq.com/interface/roll.php?0.24550947863164874&cata=newsgn&site=news&date=&mode=2&of=json&page=",
+    "Referer": "http://roll.news.qq.com/"
+  },
+  {
+    "name": 2,
+    "url": "http://roll.news.qq.com/interface/roll.php?0.8504563332279227&cata=newsgj&site=news&date=&mode=2&of=json&page=",
+    "Referer": "http://roll.news.qq.com/"
+  },
+  {
+    "name": 3,
+    "url": "http://roll.news.qq.com/interface/roll.php?0.9890121188458105&cata=newssh&site=news&date=&mode=2&of=json&page=",
+    "Referer": "http://roll.news.qq.com/"
+  },
+  {
+    "name": 4,
+    "url": "http://roll.news.qq.com/interface/roll.php?0.20491978669102284&cata=milite&site=news&date=&mode=2&of=json&page=",
+    "Referer": "http://roll.news.qq.com/"
+  },
+  {
+    "name": 5,
+    "url": "http://roll.ent.qq.com/interface/roll.php?0.42072351203293&cata=&site=ent&date=&mode=2&of=json&page=",
+    "Referer": "http://roll.ent.qq.com/"
+  },
+  {
+    "name": 6,
+    "url": "http://roll.sports.qq.com/interface/roll.php?0.047322251120141434&cata=&site=sports&date=&mode=2&of=json&page=",
+    "Referer": "http://roll.sports.qq.com/"
+  },
+  {
+    "name": 7,
+    "url": "http://roll.finance.qq.com/interface/roll.php?0.5339298141238571&cata=&site=finance&date=&mode=2&of=json&page=",
+    "Referer": "http://roll.finance.qq.com/"
+  },
+  {
+    "name": 8,
+    "url": "http://roll.tech.qq.com/interface/roll.php?0.03547029677073321&cata=&site=tech&date=&mode=2&of=json&page=",
+    "Referer": "http://roll.tech.qq.com/"
+  },
+  {
+    "name": 9,
+    "url": "http://roll.auto.qq.com/interface/roll.php?0.27156693906626717&cata=&site=auto&date=&mode=2&of=json&page=",
+    "Referer": "http://roll.auto.qq.com/"
+  },
+  {
+    "name": 12,
+    "url": "http://roll.games.qq.com/interface/roll.php?0.7166239346656962&cata=&site=games&date=&mode=2&of=json&page=",
+    "Referer": "http://roll.games.qq.com/"
+  },
+  {
+    "name": 13,
+    "url": "http://roll.house.qq.com/interface/roll.php?0.08793983414731033&cata=&site=house&date=&mode=2&of=json&page=",
+    "Referer": "http://roll.house.qq.com/"
+  }
+]

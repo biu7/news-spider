@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!--
+    腾讯新闻
+    返回格式为Json
+    {
+    "response": {
+        "code": "0",
+        "msg": "Sucess",
+        "dext": ""
+        },
+    "data": {
+        "count": 105,
+        "page": 1,
+        "article_info": "<div></div>"
+        }
+    }
+    -->
+<news>
+    <item>
+        <name>国内</name>
+        <url>http://roll.news.qq.com/interface/roll.php?0.24550947863164874&amp;cata=newsgn&amp;site=news&amp;date=&amp;page=1&amp;mode=2&amp;of=json</url>
+        <Referer>http://roll.news.qq.com/</Referer>
+    </item>
+    <item>
+        <name>国际</name>
+        <url>http://roll.news.qq.com/interface/roll.php?0.8504563332279227&amp;cata=newsgj&amp;site=news&amp;date=&amp;page=1&amp;mode=2&amp;of=json</url>
+        <Referer>http://roll.news.qq.com/</Referer>
+    </item>
+    <item>
+        <name>社会</name>
+        <url>http://roll.news.qq.com/interface/roll.php?0.9890121188458105&amp;cata=newssh&amp;site=news&amp;date=&amp;page=1&amp;mode=2&amp;of=json</url>
+        <Referer>http://roll.news.qq.com/</Referer>
+    </item>
+    <item>
+        <name>军事</name>
+        <url>http://roll.news.qq.com/interface/roll.php?0.20491978669102284&amp;cata=milite&amp;site=news&amp;date=&amp;page=1&amp;mode=2&amp;of=json</url>
+        <Referer>http://roll.news.qq.com/</Referer>
+    </item>
+    <item>
+        <name>娱乐</name>
+        <url>http://roll.ent.qq.com/interface/roll.php?0.42072351203293&amp;cata=&amp;site=ent&amp;date=&amp;page=1&amp;mode=2&amp;of=json</url>
+        <Referer>http://roll.ent.qq.com/</Referer>
+    </item>
+    <item>
+        <name>体育</name>
+        <url>http://roll.sports.qq.com/interface/roll.php?0.047322251120141434&amp;cata=&amp;site=sports&amp;date=&amp;page=1&amp;mode=2&amp;of=json</url>
+        <Referer>http://roll.sports.qq.com/</Referer>
+    </item>
+    <item>
+        <name>财经</name>
+        <url>http://roll.finance.qq.com/interface/roll.php?0.5339298141238571&amp;cata=&amp;site=finance&amp;date=&amp;page=1&amp;mode=2&amp;of=json</url>
+        <Referer>http://roll.finance.qq.com/</Referer>
+    </item>
+    <item>
+        <name>科技</name>
+        <url>http://roll.tech.qq.com/interface/roll.php?0.03547029677073321&amp;cata=&amp;site=tech&amp;date=&amp;page=1&amp;mode=2&amp;of=json</url>
+        <Referer>http://roll.tech.qq.com/</Referer>
+    </item>
+    <item>
+        <name>汽车</name>
+        <url>http://roll.auto.qq.com/interface/roll.php?0.27156693906626717&amp;cata=&amp;site=auto&amp;date=&amp;page=1&amp;mode=2&amp;of=json</url>
+        <Referer>http://roll.auto.qq.com/</Referer>
+    </item>
+    <item>
+        <name>游戏</name>
+        <url>http://roll.games.qq.com/interface/roll.php?0.7166239346656962&amp;cata=&amp;site=games&amp;date=&amp;page=1&amp;mode=2&amp;of=json</url>
+        <Referer>http://roll.games.qq.com/</Referer>
+    </item>
+    <item>
+        <name>房产</name>
+        <url>http://roll.house.qq.com/interface/roll.php?0.08793983414731033&amp;cata=&amp;site=house&amp;date=&amp;page=1&amp;mode=2&amp;of=json</url>
+        <Referer>http://roll.house.qq.com/</Referer>
+    </item>
+</news>
